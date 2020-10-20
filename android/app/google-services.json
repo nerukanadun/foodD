@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "965988858400",
+    "firebase_url": "https://bosmo-food-app.firebaseio.com",
+    "project_id": "bosmo-food-app",
+    "storage_bucket": "bosmo-food-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:965988858400:android:d48fdacddd1c08e1785a45",
+        "android_client_info": {
+          "package_name": "com.example.flutter_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "965988858400-j4mdrulcucao0jgvt7g1n7c5hpisv07s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6S3jUxfE_qqf37A0A1b189agitOVemi8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "965988858400-j4mdrulcucao0jgvt7g1n7c5hpisv07s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
