@@ -200,12 +200,7 @@ class SignInButtonWidget extends StatelessWidget {
             color: Color(0xFF00695C),
           ),
         ],
-        gradient: new LinearGradient(
-            colors: [Color(0xFF00695C), Color(0xFF80CBC4)],
-            begin: const FractionalOffset(0.2, 0.2),
-            end: const FractionalOffset(1.0, 1.0),
-            stops: [0.0, 1.0],
-            tileMode: TileMode.clamp),
+        
       ),
       child: MaterialButton(
           highlightColor: Colors.transparent,
