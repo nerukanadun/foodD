@@ -6,7 +6,10 @@ import 'package:flutter_app/widgets/BottomNavBarWidget.dart';
 import 'package:flutter_app/widgets/PopularFoodsWidget.dart';
 import 'package:flutter_app/widgets/SearchWidget.dart';
 import 'package:flutter_app/widgets/TopMenus.dart';
-
+class HomePage extends StatefulWidget {
+  @override
+  _HomePageState createState() => _HomePageState();
+}
 
 class _HomePageState extends State<HomePage> {
   @override
