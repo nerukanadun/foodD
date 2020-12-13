@@ -21,11 +21,7 @@ class SignUpPage extends StatelessWidget {
           children: <Widget>[
             Flexible(
               flex: 1,
-              child: InkWell(
-                child: Container(
-                  child: Align(
-                    alignment: Alignment.topLeft,
-                    child: Icon(Icons.close),
+             
                   ),
                 ),
                 onTap: () {
