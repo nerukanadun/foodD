@@ -11,7 +11,9 @@ class SignUpPage extends StatelessWidget {
     double defaultIconSize = 17;
     
 
-  
+    return Scaffold(
+      body: Container(
+        padding: EdgeInsets.only(left: 20, right: 20, top: 35, bottom: 30),
         width: double.infinity,
         height: double.infinity,
         color: Colors.white70,
