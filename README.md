@@ -7,7 +7,7 @@ A small attempt to make an Food delivery app user interface in Flutter for Andro
 
 * Any Operating System  (ie. MacOS X, Linux, Windows)
 
-* Any IDE with Flutter SDK installed (ie.  Android Studio, VSCode, IntelliJ, etc)
+ Any IDE with Flutter SDK installed (ie .  Android Studio, VSCode, IntelliJ, etc)
 
 
 
